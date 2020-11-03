@@ -1,6 +1,12 @@
-age,income,student,credit,buy_com
+age,income,student,credit_rating,buy_computer
 29,3,0,0,no
-35,2,0,1,no
-41,1,0,0,yes
-35,2,1,1,no
+29,3,0,1,no
+35,3,0,0,yes
+41,2,0,0,yes
 41,1,1,0,yes
+41,1,1,1,no
+35,1,1,1,yes
+29,2,1,0,no
+29,1,0,0,yes
+41,2,1,0,yes
+29,1,1,1,yes
