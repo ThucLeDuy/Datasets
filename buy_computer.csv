@@ -1,4 +1,6 @@
 age,income,student,credit,buy_com
-<30,hight,no,fair,no
-<30,hight,no,ex,no
-<30,hight,no,fair,yes
+29,3,0,0,no
+35,2,0,1,no
+41,1,0,0,yes
+35,2,1,1,no
+41,1,1,0,yes
